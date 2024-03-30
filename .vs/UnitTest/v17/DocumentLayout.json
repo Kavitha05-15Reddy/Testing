@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\UnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7485C869-9E7C-4B98-ADB7-440EDA739359}|UnitTestTests\\UnitTestTests.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\unittest\\unittesttests\\filenametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7485C869-9E7C-4B98-ADB7-440EDA739359}|UnitTestTests\\UnitTestTests.csproj|solutionrelative:unittesttests\\filenametests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324809B-E79D-4E95-8003-4BD1FE51ADC2}|UnitTest\\UnitTest.csproj|c:\\users\\ramanjaneyareddy\\source\\repos\\unittest\\unittest\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324809B-E79D-4E95-8003-4BD1FE51ADC2}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileNameTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\UnitTest\\UnitTestTests\\FileNameTests.cs",
+              "RelativeDocumentMoniker": "UnitTestTests\\FileNameTests.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\UnitTest\\UnitTestTests\\FileNameTests.cs",
+              "RelativeToolTip": "UnitTestTests\\FileNameTests.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAmwKAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:06:54.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\UnitTest\\UnitTest\\FileName.cs",
+              "RelativeDocumentMoniker": "UnitTest\\FileName.cs",
+              "ToolTip": "C:\\Users\\Ramanjaneyareddy\\source\\repos\\UnitTest\\UnitTest\\FileName.cs",
+              "RelativeToolTip": "UnitTest\\FileName.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T11:05:57.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
